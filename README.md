@@ -41,17 +41,9 @@ I'm a backend web developer with a background in public safety. I enjoy building
 ### 📈 This week I spent my time on :
 <!--START_SECTION:waka-->
 ```text
-Go           15 hrs 7 mins   ███████████████████▒░░░░░   76.76 % 
-Ruby         4 hrs 23 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.27 % 
-ERB          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+
 ```
 <!--END_SECTION:waka-->
 
  ### 📊 My GitHub Stats
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cunninghamge&theme=vue&hide=stars" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunninghamge&layout=compact" />
-</a>
+
