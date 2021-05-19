@@ -45,4 +45,8 @@ I'm a backend web developer with a background in public safety. I enjoy building
 <!--END_SECTION:waka-->
 
  ### 📊 My GitHub Stats
+![Dominics's GitHub stats](https://github-readme-stats.vercel.app/api?username=domo2192&show_icons=true&theme=radical)
+<br>
+<br>
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=domo2192&theme=radical)
 
