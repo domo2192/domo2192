@@ -3,7 +3,6 @@
 I'm a backend web developer with a background in public safety. I enjoy building APIs, writing All The Tests, and going down research rabbit holes to learn how my favorite workflow tools and RubyGems work.
 
 - 📫 [Find me on LinkedIn!](https://www.linkedin.com/in/dominic-padula/)
-- 📝 [Resume](https://resume.creddle.io/resume/czokbysnwon)
 
 ## Languages & Tools
 ### 🛠️ I'm best at:
