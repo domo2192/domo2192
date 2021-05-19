@@ -40,7 +40,7 @@ I'm a backend web developer with a background in public safety. I enjoy building
 ### 📈 This week I spent my time on :
 <!--START_SECTION:waka-->
 ```text
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
