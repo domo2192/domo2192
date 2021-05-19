@@ -1,6 +1,6 @@
 ### Hi there, I'm Dominic! 👋
 
-I'm a backend web developer with a background in public safety. I enjoy building APIs, writing All The Tests, and going down research rabbit holes to learn how my favorite workflow tools and RubyGems work.
+I'm a backend web developer with a background in public safety. I love working in teams. The skills of building apis/tests/detabases/architecture give me the opportunity to use my passion for teamwork and solve issues at scale. 
 
 - 📫 [Find me on LinkedIn!](https://www.linkedin.com/in/dominic-padula/)
 
